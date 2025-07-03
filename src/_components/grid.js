@@ -3,7 +3,7 @@ import Teaser from './teaser.js';
 
 function Grid(blok) {
 	return `<div class="grid">
-      ${blok.columns
+			${blok.columns
 				.map((nestedBlok) => {
 					switch (nestedBlok.component) {
 						case 'feature':
@@ -17,7 +17,7 @@ function Grid(blok) {
 					}
 				})
 				.join('')}
-    </div>`;
+		</div>`;
 }
 
 export default Grid;
