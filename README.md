@@ -40,7 +40,7 @@ STORYBLOK_DELIVERY_API_TOKEN=<REPLACE_WITH_YOUR_TOKEN>
 ```
 
 > [!IMPORTANT]
-> Copy your space's preview access token from **Settings** > **Access Tokens**.
+> Copy your space's preview access token from **Settings** > **Access Tokens**.
 > Learn more about Storyblok [access tokens](https://www.storyblok.com/docs/concepts/access-tokens).
 
 ### Connect the Visual Editor
